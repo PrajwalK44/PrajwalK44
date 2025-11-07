@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalk44&show_icons=true&locale=en" alt="prajwalk44" /></p>
 
-
+[![An image of @prajwalk44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwalk44)](https://holopin.io/@prajwalk44)
 
 ## 🌟 Connect with Me
 
