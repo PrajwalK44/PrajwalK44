@@ -20,7 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalk44&show_icons=true&locale=en" alt="prajwalk44" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalk44&" alt="prajwalk44" /></p>
 
 
 ## 🌟 Connect with Me
